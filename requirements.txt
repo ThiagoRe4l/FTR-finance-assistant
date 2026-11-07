@@ -1,0 +1,14 @@
+# Agentes de IA
+crewai
+
+# Dados de mercado da B3 / Ibovespa
+yfinance
+
+# Interface de chat (streamlit_app.py)
+streamlit
+
+# Validação dos schemas das tools (args_schema)
+pydantic
+ipykernel
+crewai[litellm]
+litellm
